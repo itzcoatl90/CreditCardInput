@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="credit_card_form_icons">30dp</dimen>
+    <dimen name="credit_card_logo_height">30dp</dimen>
+    <dimen name="credit_card_logo_width">50dp</dimen>
+    <dimen name="credit_card_form_icons_padding">6dp</dimen>
+    <dimen name="credit_card_layout_margin">10dp</dimen>
+    <dimen name="credit_card_title">26sp</dimen>
+    <dimen name="credit_card_error">12sp</dimen>
+    <dimen name="credit_card_title_padding">6dp</dimen>
+    <dimen name="credit_card_error_padding">2dp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CreditCardInput</string>
+    <string name="title">Credit Card Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">Expiration (MM/YY)</string>
+    <string name="cvv">CVV</string>
+    <string name="submit">Submit</string>
+    <string name="default_error">Default error</string>
+    <string name="allowed_chars">qwertzuiopasdfghjklyxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM </string>
+    <string name="allowed_digits">1234567890</string>
+    <string name="error_empty_first_name">Please enter first name</string>
+    <string name="error_empty_last_name">Please enter last name</string>
+    <string name="error_special_char_in_first_name">First name should not have special characters</string>
+    <string name="error_special_char_in_last_name">Last name should not have special characters</string>
+    <string name="error_invalid_cc_number_length">Invalid credit card number</string>
+    <string name="error_cc_not_supported">Please enter a american express, discover, visa or master card</string>
+    <string name="error_invalid_cc_number_luhn">Please enter a valid credit card</string>
+    <string name="error_invalid_expiration_date">Please enter expiration date in form mm/yy</string>
+    <string name="error_invalid_cvv">Please enter a valid cvv</string>
+    <string name="submitting">Submitting, please wait</string>
+    <string name="successful_title">Successful on your Credit Card Registration</string>
+    <string name="successful_description">We are glad to say that your credit card was successfully registered and that now you will be able to use it for online purchases with us</string>
+</resources>
